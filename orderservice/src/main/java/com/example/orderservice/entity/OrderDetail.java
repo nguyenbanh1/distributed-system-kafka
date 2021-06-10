@@ -30,4 +30,5 @@ public class OrderDetail {
     private Order order;
     private Long product;
     private Integer quantity;
+    private Long amount;
 }

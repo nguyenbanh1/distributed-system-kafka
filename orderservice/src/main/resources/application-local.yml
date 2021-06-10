@@ -1,6 +1,4 @@
 spring:
-
-  profiles: local
   jackson:
     serialization:
       indent-output: true
